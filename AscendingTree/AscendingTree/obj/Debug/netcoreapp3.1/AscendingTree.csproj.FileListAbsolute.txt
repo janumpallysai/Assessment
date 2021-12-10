@@ -1,0 +1,14 @@
+C:\Users\vijay\source\repos\AscendingTree\AscendingTree\bin\Debug\netcoreapp3.1\AscendingTree.exe
+C:\Users\vijay\source\repos\AscendingTree\AscendingTree\bin\Debug\netcoreapp3.1\AscendingTree.deps.json
+C:\Users\vijay\source\repos\AscendingTree\AscendingTree\bin\Debug\netcoreapp3.1\AscendingTree.runtimeconfig.json
+C:\Users\vijay\source\repos\AscendingTree\AscendingTree\bin\Debug\netcoreapp3.1\AscendingTree.runtimeconfig.dev.json
+C:\Users\vijay\source\repos\AscendingTree\AscendingTree\bin\Debug\netcoreapp3.1\AscendingTree.dll
+C:\Users\vijay\source\repos\AscendingTree\AscendingTree\bin\Debug\netcoreapp3.1\AscendingTree.pdb
+C:\Users\vijay\source\repos\AscendingTree\AscendingTree\obj\Debug\netcoreapp3.1\AscendingTree.csproj.AssemblyReference.cache
+C:\Users\vijay\source\repos\AscendingTree\AscendingTree\obj\Debug\netcoreapp3.1\AscendingTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijay\source\repos\AscendingTree\AscendingTree\obj\Debug\netcoreapp3.1\AscendingTree.AssemblyInfoInputs.cache
+C:\Users\vijay\source\repos\AscendingTree\AscendingTree\obj\Debug\netcoreapp3.1\AscendingTree.AssemblyInfo.cs
+C:\Users\vijay\source\repos\AscendingTree\AscendingTree\obj\Debug\netcoreapp3.1\AscendingTree.csproj.CoreCompileInputs.cache
+C:\Users\vijay\source\repos\AscendingTree\AscendingTree\obj\Debug\netcoreapp3.1\AscendingTree.dll
+C:\Users\vijay\source\repos\AscendingTree\AscendingTree\obj\Debug\netcoreapp3.1\AscendingTree.pdb
+C:\Users\vijay\source\repos\AscendingTree\AscendingTree\obj\Debug\netcoreapp3.1\AscendingTree.genruntimeconfig.cache
