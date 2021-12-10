@@ -1,0 +1,14 @@
+C:\Users\vijay\source\repos\WordFinder\WordFinder\bin\Debug\netcoreapp3.1\WordFinder.exe
+C:\Users\vijay\source\repos\WordFinder\WordFinder\bin\Debug\netcoreapp3.1\WordFinder.deps.json
+C:\Users\vijay\source\repos\WordFinder\WordFinder\bin\Debug\netcoreapp3.1\WordFinder.runtimeconfig.json
+C:\Users\vijay\source\repos\WordFinder\WordFinder\bin\Debug\netcoreapp3.1\WordFinder.runtimeconfig.dev.json
+C:\Users\vijay\source\repos\WordFinder\WordFinder\bin\Debug\netcoreapp3.1\WordFinder.dll
+C:\Users\vijay\source\repos\WordFinder\WordFinder\bin\Debug\netcoreapp3.1\WordFinder.pdb
+C:\Users\vijay\source\repos\WordFinder\WordFinder\obj\Debug\netcoreapp3.1\WordFinder.csproj.AssemblyReference.cache
+C:\Users\vijay\source\repos\WordFinder\WordFinder\obj\Debug\netcoreapp3.1\WordFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijay\source\repos\WordFinder\WordFinder\obj\Debug\netcoreapp3.1\WordFinder.AssemblyInfoInputs.cache
+C:\Users\vijay\source\repos\WordFinder\WordFinder\obj\Debug\netcoreapp3.1\WordFinder.AssemblyInfo.cs
+C:\Users\vijay\source\repos\WordFinder\WordFinder\obj\Debug\netcoreapp3.1\WordFinder.csproj.CoreCompileInputs.cache
+C:\Users\vijay\source\repos\WordFinder\WordFinder\obj\Debug\netcoreapp3.1\WordFinder.dll
+C:\Users\vijay\source\repos\WordFinder\WordFinder\obj\Debug\netcoreapp3.1\WordFinder.pdb
+C:\Users\vijay\source\repos\WordFinder\WordFinder\obj\Debug\netcoreapp3.1\WordFinder.genruntimeconfig.cache
