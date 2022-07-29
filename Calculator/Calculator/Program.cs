@@ -25,10 +25,10 @@ namespace Calculator
 
             try
             {
-                logger.Log("Please enter the first integer: ");
+                logger.Log("Please enter the first Integer here: ");
                 num1 = Convert.ToInt32(Console.ReadLine());
 
-                logger.Log("Please enter the second integer: ");
+                logger.Log("Please enter the second Integer here: ");
                 num2 = Convert.ToInt32(Console.ReadLine());
             }
             catch (Exception)
